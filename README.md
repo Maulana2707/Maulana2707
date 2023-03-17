@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask or PHP or MySQL
 - 👨‍💻 &nbsp;Read more about my projects 
-- ⚡ &nbsp;Fun fact: I :heart: PUBG Mobile :world:
+- ⚡ &nbsp;Fun fact: I :heart: PUBG Mobile and Mobile Legend Xixi
 
 📕 &nbsp;**Latest Blog Posts**
 
