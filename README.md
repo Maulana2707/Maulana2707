@@ -32,7 +32,7 @@ I am a Full Stack Developer with 6+ years of experience in developing enterprise
 
 #### My Opensource Story
 
-[⏩ &nbsp; and many more] (https://github.com/Maulana2707?tab=repositories)
+[⏩ &nbsp; and many more] <a href="https://github.com/Maulana2707?tab=repositories"
   
 ```
   ____                  ____                      
